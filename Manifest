@@ -1,0 +1,5 @@
+Manifest
+Rakefile
+lib/hello_world.rb
+secret/path/to/gem-private_key.pem
+secret/path/to/gem-public_cert.pem
